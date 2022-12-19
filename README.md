@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yurkkon
 - 👀 I’m interested in programming, computer science and space.
-- 🌱 I’m currently learning unity, c#, python and java
+- 🌱 I’m currently learning godot, python and JavaScript
 - 💞️ I’m looking to collaborate on youtube.com/yurkkon
 - 📫 How to reach me info.yurkkon@gmail.com
 
